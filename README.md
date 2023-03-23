@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **maryan.manrique@gmail.com**
 
-- 🌻 Soft skills **adaptability, conflict resolution and creative thinking**
+- 🌻 Soft skills: **adaptability, conflict resolution and creative thinking**
 
 
 <h3 align="left">Connect with me:</h3>
