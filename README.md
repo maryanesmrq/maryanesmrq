@@ -5,6 +5,13 @@
 
 - 🌱 I’m currently learning **Node.js**
 
+- 👨‍💻 All of my projects are available at [https://github.com/maryanesmrq?tab=repositories](https://github.com/maryanesmrq?tab=repositories)
+
+- 📫 How to reach me **maryan.manrique@gmail.com**
+
+- 🌻 Soft skills **adaptability, conflict resolution and creative thinking**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maryan-esmanriq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryan escobar manrique" height="30" width="40" /></a>
